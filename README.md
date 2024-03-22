@@ -1,17 +1,7 @@
-# projet_spotify_gorouter
+Application Flutter basée sur l'API Spotify
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_projet_spotify_base
+Affichage des albums tendances, des musiques et artistes d'un album, d'un artiste en particulier.
+On peut effectuer des recherches par album, musique et artiste.
+On peut lire les musiques des albums et les musiques recherchées si l'audio est disponible.
+On peut ajouter une musique à la playlist après une recherche (si l'audio est disponible). Pour mettre à jour la playlist, il faut actualiser la page.
+Enfin, on peut lire la playlist, avancer ou reculer d'une musique et supprimer des musiques de la playlist.
